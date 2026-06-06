@@ -1,0 +1,13 @@
+{
+  "kind": "collectionType",
+  "collectionName": "beritas",
+  "info": {
+    "singularName": "berita",
+    "pluralName": "beritas",
+    "displayName": "Berita"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {}
+}
